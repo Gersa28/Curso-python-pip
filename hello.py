@@ -1,1 +1,1 @@
-print("Hola")
+# https://www.toptal.com/developers/gitignore
