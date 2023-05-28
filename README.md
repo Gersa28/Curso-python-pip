@@ -16,8 +16,8 @@ python3 main.py
 primero un fork, luego
 git clone
 cd app
-python -m venv env
-venv\Scripts\activate
-pip install -r requirements.txt
+python -m venv env # Crear un entorno virtual propio
+venv\Scripts\activate # Activar el entorno virtual propio
+pip install -r requirements.txt # Instalar los requerimientos
 python main.py
 ```
