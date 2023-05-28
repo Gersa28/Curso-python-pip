@@ -13,7 +13,7 @@ python3 main.py
 # App Project:  Procedimiento
 
 ```sh:
-primero un fork, luego
+primero hacer un fork (solicitar un pull request al terminar), luego
 git clone
 cd app
 python -m venv env # Crear un entorno virtual propio
