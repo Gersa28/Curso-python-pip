@@ -1,3 +1,6 @@
+import os
+os.system('cls')
+
 import utils
 import read_csv
 import charts
